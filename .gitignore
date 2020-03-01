@@ -25,6 +25,7 @@ HELP.md
 /.nb-gradle/
 /build/
 /target/
+/out/
 
 ### VS Code ###
 .vscode/
