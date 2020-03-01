@@ -5,5 +5,4 @@ public interface IBuild {
      public void createUnit2();
      public void createUnit3();
      public Product composite();
-
 }

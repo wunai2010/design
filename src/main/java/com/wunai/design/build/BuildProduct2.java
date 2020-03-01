@@ -1,6 +1,6 @@
 package com.wunai.design.build;
 
-public class BuildProduct implements  IBuild{
+public class BuildProduct2 implements  IBuild{
     @Override
     public void createUnit1() {
         System.out.println("步骤1");
